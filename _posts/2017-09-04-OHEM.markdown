@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "ABOUT OHEM"
+date:   2017-09-17 17:00:00
+author: Kim Jae Joon
+categories: Deep Learning
+---
+
+오늘 GIT 소스 테스트 중에 발생한 오류 디버깅중 찾은 OHEM, Bootstraping Object Detection에 대해서 정리 예정
