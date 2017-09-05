@@ -100,14 +100,14 @@ social:
 
   - name: Google+
     icon: google-plus
-    username:nuri.jaejoon
+    username: nuri.jaejoon
     url:
     desc: Add me to your Circles
     share: true
 
   - name: YouTube
     icon: youtube
-    username:jaejoonKim
+    username: jaejoonKim
     url:
     desc: Subscribe on YouTube
     share: false
