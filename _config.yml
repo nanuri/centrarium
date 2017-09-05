@@ -108,7 +108,7 @@ social:
   - name: YouTube
     icon: youtube
     username: jaejoonKim
-    url:
+    url:/Users/kimjaejoon/nuriblog/nanuri.github.io/about.md
     desc: Subscribe on YouTube
     share: false
 
